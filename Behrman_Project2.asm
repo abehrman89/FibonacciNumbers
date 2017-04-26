@@ -1,14 +1,6 @@
 TITLE Behrman_Project2     (Behrman_Project2.asm)
 
-; Author: Alexandra Behrman
-; Course / Project ID      CS271_400           Date: 1/27/17
-; Description: Write a program to calculate Fibonacci numbers.
-;	• Display the program title and programmer’s name. Then get the user’s name, and greet the user.
-;	• Prompt the user to enter the number of Fibonacci terms to be displayed in the range [1 .. 46].
-;	• Get and validate the user input (n).
-;	• Calculate and display all of the Fibonacci numbers up to and including the nth term. 
-;	• The results should be displayed 5 terms per line with at least 5 spaces between terms.
-;	• Display a parting message that includes the user’s name, and terminate the program
+; display user-requested number of fibonacci numbers
 
 INCLUDE Irvine32.inc
 
